@@ -64,7 +64,7 @@ df.head()
 ### 2.1 구글
 [Vision API](https://cloud.google.com/vision?utm_source=google&utm_medium=cpc&utm_campaign=japac-KR-all-en-dr-BKWS-all-hv-trial-PHR-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_631194514224-ADGP_Hybrid%20%7C%20BKWS%20-%20BRO%20%7C%20Txt%20~%20AI%20&%20ML_Vision%20AI_google%20vision%20api_main-KWID_43700076510377423-aud-1644542956228%3Akwd-151378238431&userloc_1009875-network_g&utm_term=KW_google%20vision%20api&gclid=EAIaIQobChMIzIuDirGSgQMVqwh7Bx052QIHEAAYASAAEgKuwfD_BwE&gclsrc=aw.ds&hl=ko)
 - 이미지 크기 조정 불가
-![vision_api](https://community.appinventor.mit.edu/uploads/default/optimized/3X/2/a/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf_2_200x178.png)
+![vision_api logo](https://community.appinventor.mit.edu/uploads/default/optimized/3X/2/a/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf_2_200x178.png)
 - 이미지 크기 조정 가능
 <p align="center">
 <img src="./vision_api_logo.png" width="200">
@@ -73,6 +73,7 @@ df.head()
 Vision API는 특정 이미지를 인식하여 분류기능을 하는 인공지능 API이다.
 
 [Maps API](https://developers.google.com/maps?hl=ko)
+
 ![maps_api_logo](https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=w240-h480-rw)
 
 지도를 표시하고 위치 관련 정보를 사용할 수 있는 인공지능 API이다.
@@ -80,26 +81,26 @@ Vision API는 특정 이미지를 인식하여 분류기능을 하는 인공지�
 ### 2.2 네이버
 - [papago 번역 API](https://papago.naver.com/)
 
-![./papago_api.webp](papago%20api.webp)
+![papago_api logo](https://cdn-1.webcatalog.io/catalog/naver-papago/naver-papago-icon-filled-256.webp?v=1675613729920)
 
 텍스트 번역을 자동화하고 언어 간 번역을 수행하는 인공지능 API이다.
 
 - [SmartLens API](https://help.naver.com/service/18159/contents/7414?osType=MOBILE&lang=ko)
 
-![./smart_lens_api.PNG](smart%20lens%20api.PNG)
+![smart_lens_api logo](https://blogfiles.pstatic.net/MjAxOTA0MDVfMjE0/MDAxNTU0NDQ0MTY5NzM3.4He4O9Ov2jhCXjfNhSserIcmXLoqTjQJNq6qHZEW0mog.aHj7JeQW_UcMgQuXkn804pEIIVSyRJEw1q3qFqxkrXEg.JPEG.rnjsrldnd123/SE-3cdacde0-a488-4824-8f21-93f5f0929ff2.jpg)
 
 카메라로 대상을 인식하고 그에 대한 정보를 제공하는 인공지능 API이다.
 
 ### 2.3 카카오톡
 - [텍스트 기반 챗봇 개발 API](https://business.kakao.com/info/chatbot/)
 
-![./kakao_api.PNG](kakao%20api.PNG)
+![kakao_api logo](https://www.koreatechtoday.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-21-at-3.14.45-PM-768x562.png)
 
 사용자의 질문에 응답하고 정보를 제공하는 등 다양한 대화 기능을 구현
 
 - [음성 처리 API](https://cs.kakao.com/helps?service=106&category=896&locale=ko)
 
-![./kakao1_api.PNG](kakao1%20api.PNG)
+![kakao1_api logo](https://t1.daumcdn.net/cfile/tistory/99FF8C455C99952627?original)
 
 음성 메시지를 텍스트로 변환하거나 텍스트를 음성으로 변환하는 작업을 수행하는 API
 ***
