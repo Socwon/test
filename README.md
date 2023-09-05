@@ -62,9 +62,9 @@ df.head()
 ## 2. 대표적인 인공지능 API
 
 ### 2.1 구글
-- [Vision API](https://cloud.google.com/vision?utm_source=google&utm_medium=cpc&utm_campaign=japac-KR-all-en-dr-BKWS-all-hv-trial-PHR-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_631194514224-ADGP_Hybrid%20%7C%20BKWS%20-%20BRO%20%7C%20Txt%20~%20AI%20&%20ML_Vision%20AI_google%20vision%20api_main-KWID_43700076510377423-aud-1644542956228%3Akwd-151378238431&userloc_1009875-network_g&utm_term=KW_google%20vision%20api&gclid=EAIaIQobChMIzIuDirGSgQMVqwh7Bx052QIHEAAYASAAEgKuwfD_BwE&gclsrc=aw.ds&hl=ko)
+[Vision API](https://cloud.google.com/vision?utm_source=google&utm_medium=cpc&utm_campaign=japac-KR-all-en-dr-BKWS-all-hv-trial-PHR-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_631194514224-ADGP_Hybrid%20%7C%20BKWS%20-%20BRO%20%7C%20Txt%20~%20AI%20&%20ML_Vision%20AI_google%20vision%20api_main-KWID_43700076510377423-aud-1644542956228%3Akwd-151378238431&userloc_1009875-network_g&utm_term=KW_google%20vision%20api&gclid=EAIaIQobChMIzIuDirGSgQMVqwh7Bx052QIHEAAYASAAEgKuwfD_BwE&gclsrc=aw.ds&hl=ko)
 - 이미지 크기 조정 불가
-![(./vision_api_logo.png)](vision%20api%20logo.png)
+![./vision_api_logo.png](vision%20api%20logo.png)
 - 이미지 크기 조정 가능
 <p align="center">
 <img src="./vision_api_logo.png" width="200">
@@ -72,15 +72,15 @@ df.head()
 
 Vision API는 특정 이미지를 인식하여 분류기능을 하는 인공지능 API이다.
 
-- [Maps API](https://developers.google.com/maps?hl=ko)
-![(./maps_api_logo.jpg)](maps%20api%20logo.jpg)
+[Maps API](https://developers.google.com/maps?hl=ko)
+![./maps_api_logo.jpg](maps%20api%20logo.jpg)
 
 지도를 표시하고 위치 관련 정보를 사용할 수 있는 인공지능 API이다.
 
 ### 2.2 네이버
 - [papago 번역 API](https://papago.naver.com/)
 
-![(./papago_api.webp)](papago%20api.webp)
+![./papago_api.webp](papago%20api.webp)
 
 텍스트 번역을 자동화하고 언어 간 번역을 수행하는 인공지능 API이다.
 
@@ -105,8 +105,5 @@ Vision API는 특정 이미지를 인식하여 분류기능을 하는 인공지�
 ***
 
 ## 3. 프로젝트 1에서 활용해 볼 API 선정 및 설명
-
-
-
 
 
