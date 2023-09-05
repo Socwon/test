@@ -73,7 +73,7 @@ df.head()
 Vision API는 특정 이미지를 인식하여 분류기능을 하는 인공지능 API이다.
 
 [Maps API](https://developers.google.com/maps?hl=ko)
-![./maps_api_logo.jpg](maps%20api%20logo.jpg)
+![maps_api_logo]([maps%20api%20logo.jpg](https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=w240-h480-rw))
 
 지도를 표시하고 위치 관련 정보를 사용할 수 있는 인공지능 API이다.
 
